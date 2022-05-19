@@ -1,0 +1,17 @@
+div{
+    margin: 10px 10px;
+}
+.form{
+    padding: 20px;
+    background-color: #ddd;
+    border-radius: 5px;
+    width: 400px;
+    margin: 0 auto;
+}
+.submitBtn{
+    background-color: #324d33;
+    color: #fff;
+    padding:6px 14px;
+    border-radius: 5px;
+    cursor: pointer;
+}
